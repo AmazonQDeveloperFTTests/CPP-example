@@ -12,7 +12,7 @@ int main(){
 		cin>>a[i];
 	}
 	
-	//Kadane's Algorithm for max subarray sum
+	//Kadane's Algorithm for max subarray sum.
 	for( int i = 0 ; i< n ; i++){
 		cs = cs + a[i];
 		if (cs< 0 ){
