@@ -1,7 +1,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
-
+//File of the videoGame block
 int main()
 {
     long long int n, h, j = 0, k = 0;
